@@ -53,23 +53,35 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Screenshots
 
-![Homepage](img/homeSS.PNG)
-_Figure 1: Tiffinos Homepage_
+<div align="center">
+  <img src="img/homeSS.PNG" alt="Homepage">
+  <p><em>Figure 1: Tiffinos Homepage</em></p>
+</div>
 
-![About Us](img/abtSS.PNG)
-_Figure 2: About Us Section_
+<div align="center">
+  <img src="img/abtSS.PNG" alt="About Us">
+  <p><em>Figure 2: About Us Section</em></p>
+</div>
 
-![Order Confirmation](img/servicesSS.PNG)
-_Figure 3: Service Page_
+<div align="center">
+  <img src="img/servicesSS.PNG" alt="Service Page">
+  <p><em>Figure 3: Service Page</em></p>
+</div>
 
-![Order Confirmation](img/contactSS.PNG)
-_Figure 4: Contact Us Page_
+<div align="center">
+  <img src="img/contactSS.PNG" alt="Contact Us Page">
+  <p><em>Figure 4: Contact Us Page</em></p>
+</div>
 
-![Order Confirmation](img/menuSS.PNG)
-_Figure 5: Menu Page_
+<div align="center">
+  <img src="img/menuSS.PNG" alt="Menu Page">
+  <p><em>Figure 5: Menu Page</em></p>
+</div>
 
-![Order Confirmation](img/footerSS.PNG)
-_Figure 6: Footer Page_
+<div align="center">
+  <img src="img/footerSS.PNG" alt="Footer Page">
+  <p><em>Figure 6: Footer Page</em></p>
+</div>
 
 ## Contact
 
