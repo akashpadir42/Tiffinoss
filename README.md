@@ -34,22 +34,6 @@ Tiffinos is a platform connecting customers with nearby mess services offering h
 ## Technologies Used
 
 - Frontend: HTML, CSS, JavaScript
-- Backend: [Specify your backend technologies]
-- Database: [Specify your database system]
-
-## Getting Started
-
-1. Clone the repository: `git clone [repository URL]`
-2. Install dependencies: `[instructions for installing dependencies]`
-3. Run the application: `[instructions for running the application]`
-
-## Contributing
-
-We welcome contributions from the community. Please follow our [contribution guidelines](CONTRIBUTING.md) for details on how to contribute to the project.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Screenshots
 
